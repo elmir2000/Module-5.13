@@ -222,7 +222,8 @@ body {
   margin-left: 0;
 }
 
-.link-back {
+.link-back-img {
+  margin-bottom: 25px;
   background-image: url(../img/modules-back.svg);
   background-repeat: no-repeat;
   background-position: left center;
